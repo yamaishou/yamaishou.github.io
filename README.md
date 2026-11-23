@@ -1,0 +1,1 @@
+# yamaishou.github.io
