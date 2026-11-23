@@ -9,3 +9,7 @@ header_pages:
   - publications.md
 
 markdown: kramdown
+
+exlucde: 
+  - GUIDE.md
+  
