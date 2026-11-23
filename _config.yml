@@ -22,6 +22,11 @@ author:
 # See http://jekyllrb.com/docs/github-pages/ for more info
 baseurl: '/guides-template'
 
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/dc_logo.png
+logoalt: The D.C. flag
+
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
